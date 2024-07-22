@@ -231,7 +231,7 @@ button {
     }
 }
 
-@media(max-width:679.98px) {
+@media(max-width:100px) {
        .header-logo, .instagram {
         width: calc(100% - 80px) !important;
         height: 80px;
